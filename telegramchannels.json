@@ -1,6 +1,7 @@
 [
     "Hope_Net",
     "ServerNett",
+    "alfred_config",
     "allv2ray",
     "angus_vpn",
     "antimeli",
@@ -10,7 +11,6 @@
     "awlix_ir",
     "azarbayjab1",
     "bored_vpn",
-    "canfigv2ray",
     "configforvpn",
     "configpositive",
     "configt",
@@ -107,7 +107,6 @@
     "v2raylandd",
     "v2rayng3",
     "v2rayng_city",
-    "v2rayng_spdnet",
     "v2rayprotocol",
     "v2rayyngvpn",
     "v2rez",

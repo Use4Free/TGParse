@@ -22,7 +22,6 @@
     "bypass_filter",
     "canfigv2ray",
     "cconfig_v2ray",
-    "change_ip1",
     "config_green",
     "config_rayegan",
     "config_v2ray_vpn",
@@ -147,6 +146,7 @@
     "tv_v2ray",
     "unlimiteddev",
     "v2all",
+    "v2boxv",
     "v2graphy",
     "v2net_iran",
     "v2ngfast",
@@ -195,5 +195,6 @@
     "vpnv2rayonline",
     "xpnteam",
     "yejoriconfig",
-    "zdyz2"
+    "zdyz2",
+    "zedbaz_vpn"
 ]

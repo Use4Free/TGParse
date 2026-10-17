@@ -25,7 +25,6 @@
     "cfox_server",
     "chillguy_vpn",
     "cnetvpn",
-    "config7x",
     "config_connect",
     "config_proxy",
     "config_rayegan",
@@ -100,6 +99,7 @@
     "proxy_mtm",
     "proxy_online_net",
     "proxymtalpha",
+    "proxyvpn11",
     "prrofile_purple",
     "qv2raychannel",
     "raydikalx",
@@ -109,7 +109,6 @@
     "sheriffnet",
     "shh_proxy",
     "sil3ntvpn",
-    "soliconf",
     "soskeynet",
     "soskeynets",
     "sparkconfig",
@@ -147,5 +146,6 @@
     "vpnowl",
     "vpnsal",
     "vpnserverrr",
+    "wancloudfa",
     "zyzzzoao"
 ]
